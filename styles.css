@@ -38,7 +38,7 @@ nav a:hover{
   background-size: cover; /* ensures the image covers the whole section */
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 85vh;
   color: white; 
   display: flex;
   align-items: center;
