@@ -56,10 +56,10 @@ nav a:hover{
 }
 
 .get-started-bt:hover{
-    background-color: green;
+    color: green;
+    background-color: white;
     font-size: 27px;
     border-radius: 5px;
-    transition: 0.3s;
 }
 
 @media (max-width: 600px) {
