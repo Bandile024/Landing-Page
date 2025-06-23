@@ -62,6 +62,24 @@ nav a:hover{
     border-radius: 5px;
 }
 
+.footer-1{
+    text-align: left;
+    background-color: darkgrey;
+    color: #ecf0f1;
+    position: relative;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    padding-left: 35px;
+ }
+
+.footer-1 .left-side {
+    margin-left: 15px; /* Adjust value to move right */
+}
+
+
 @media (max-width: 600px) {
    nav { 
       justify-content: center;
