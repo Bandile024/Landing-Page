@@ -46,17 +46,12 @@ nav a:hover{
   text-align: center;
 }
 
-.Champion{
-  background-image: url('Make a picture with an education program logo in the middle center for a programme named_ Help-Me-Understand. It is a programme for an organisation that helps high school learners with their studies.jpg'); /* Replace with your image path */
-  background-size: cover; /* ensures the image covers the whole section */
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100vh;
-  color: white; 
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+.get-started-bt{
+  margin-top: 450px;
+  background-color: lightgreen;
+  font-size: 25px;
+  border-radius: 15px;
+  border: 1px solid black;
 }
 
 
