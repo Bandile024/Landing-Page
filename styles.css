@@ -85,6 +85,7 @@ nav a:hover{
     height: 20vh;
     width: 20%;
     margin-left: 40%;
+    box-shadow: 4px 4px 10px rgb(216 165 165);
 }
 
 .footer-1{
