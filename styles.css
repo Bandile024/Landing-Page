@@ -15,6 +15,10 @@ header{
 }
 
 .logo{
+    background-image: url('Screenshot_25-6-2025_145154_www.canva.com.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     justfy-content: left;
     border: 1px solid white;
     border-radius: 50%;
