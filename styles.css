@@ -95,6 +95,10 @@ nav a:hover{
     box-shadow: 4px 4px 10px rgb(216 165 165);
 }
 
+.director p{
+    margin-top: 245px;
+}
+
 .manager{
    background-image: url('130910471_2478543438956384_8080559932488551783_n.jpg');
    background-size: cover;
@@ -106,7 +110,7 @@ nav a:hover{
     margin-left: 5%;
     box-shadow: 4px 4px 10px rgb(216 165 165);
     border-radius: 15px;
-    margin-top: -294px;
+    margin-top: -225px;
 }
 
 .manager p{
