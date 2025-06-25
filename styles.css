@@ -80,6 +80,10 @@ nav a:hover{
 }
 
 .director{
+    background-image: url('474463311_1310599246737666_4215603494168993501_n.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     border: 1px solid white;
     border-radius: 15px;
     height: 20vh;
