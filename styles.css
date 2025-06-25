@@ -68,9 +68,8 @@ nav a:hover{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 25vh;
+    height: 45vh;
     color: white;
-    display: center;
     align-items: center;
     text-align: center;
     margin-top: 25px;
@@ -86,10 +85,24 @@ nav a:hover{
     background-repeat: no-repeat;
     border: 1px solid white;
     border-radius: 15px;
-    height: 20vh;
+    height: 35vh;
     width: 20%;
     margin-left: 40%;
     box-shadow: 4px 4px 10px rgb(216 165 165);
+}
+
+.manager{
+    border: 1px solid white;
+    height: 35vh;
+    width: 20%;
+    margin-left: 5%;
+    box-shadow: 4px 4px 10px rgb(216 165 165);
+    border-radius: 15px;
+    margin-top: -294px;
+}
+
+.manager p{
+    margin-top: 245px;
 }
 
 .footer-1{
