@@ -92,6 +92,10 @@ nav a:hover{
 }
 
 .manager{
+   background-image: url('130910471_2478543438956384_8080559932488551783_n.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
     border: 1px solid white;
     height: 35vh;
     width: 20%;
