@@ -63,6 +63,30 @@ nav a:hover{
     border-radius: 5px;
 }
 
+.executive{
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 25vh;
+    color: white;
+    display: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 25px;
+    marging-bottom: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.director{
+    border: 1px solid white;
+    border-radius: 15px;
+    height: 20vh;
+    width: 20%;
+    margin-left: 40%;
+}
+
 .footer-1{
     text-align: left;
     background-color: darkgrey;
