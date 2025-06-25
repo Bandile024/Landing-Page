@@ -8,6 +8,20 @@ header{
     background-color: black;
 }
 
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    justfy-content: left;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 70px;
+    height: 50px;
+}
+
 nav{
         justify-content: right;
         display: flex;
